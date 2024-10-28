@@ -164,69 +164,69 @@
 	<key>DVTSourceTextSyntaxFonts</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
-		<string>SauceCodeProNF - 15.0</string>
+		<string>Fragment Mono - 15.0</string>
 		<key>xcode.syntax.character</key>
-		<string>SauceCodeProNF - 15.0</string>
+		<string>Fragment Mono - 15.0</string>
 		<key>xcode.syntax.comment</key>
-		<string>SauceCodeProNF - 15.0</string>
+		<string>Fragment Mono - 15.0</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>SauceCodeProNF - 15.0</string>
+		<string>Fragment Mono - 15.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>SauceCodeProNF-Bold - 15.0</string>
+		<string>Fragment Mono-Bold - 15.0</string>
 		<key>xcode.syntax.declaration.other</key>
-		<string>SauceCodeProNF - 15.0</string>
+		<string>Fragment Mono - 15.0</string>
 		<key>xcode.syntax.declaration.type</key>
-		<string>SauceCodeProNF - 15.0</string>
+		<string>Fragment Mono - 15.0</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>SauceCodeProNF - 15.0</string>
+		<string>Fragment Mono - 15.0</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>SauceCodeProNF - 15.0</string>
+		<string>Fragment Mono - 15.0</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>SauceCodeProNF - 15.0</string>
+		<string>Fragment Mono - 15.0</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>SauceCodeProNF - 15.0</string>
+		<string>Fragment Mono - 15.0</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>SauceCodeProNF - 15.0</string>
+		<string>Fragment Mono - 15.0</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>SauceCodeProNF - 15.0</string>
+		<string>Fragment Mono - 15.0</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>SauceCodeProNF - 15.0</string>
+		<string>Fragment Mono - 15.0</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>SauceCodeProNF - 15.0</string>
+		<string>Fragment Mono - 15.0</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>SauceCodeProNF - 15.0</string>
+		<string>Fragment Mono - 15.0</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>SauceCodeProNF - 15.0</string>
+		<string>Fragment Mono - 15.0</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>SauceCodeProNF - 15.0</string>
+		<string>Fragment Mono - 15.0</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>SauceCodeProNF - 15.0</string>
+		<string>Fragment Mono - 15.0</string>
 		<key>xcode.syntax.keyword</key>
-		<string>SauceCodeProNF-SemiBold - 15.0</string>
+		<string>Fragment Mono-SemiBold - 15.0</string>
 		<key>xcode.syntax.mark</key>
-		<string>SauceCodeProNF-Bold - 15.0</string>
+		<string>Fragment Mono-Bold - 15.0</string>
 		<key>xcode.syntax.markup.code</key>
-		<string>SauceCodeProNF - 15.0</string>
+		<string>Fragment Mono - 15.0</string>
 		<key>xcode.syntax.number</key>
-		<string>SauceCodeProNF - 15.0</string>
+		<string>Fragment Mono - 15.0</string>
 		<key>xcode.syntax.plain</key>
-		<string>SauceCodeProNF - 15.0</string>
+		<string>Fragment Mono - 15.0</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>SauceCodeProNF - 15.0</string>
+		<string>Fragment Mono - 15.0</string>
 		<key>xcode.syntax.regex</key>
-		<string>SauceCodeProNF - 15.0</string>
+		<string>Fragment Mono - 15.0</string>
 		<key>xcode.syntax.regex.capturename</key>
-		<string>SauceCodeProNF - 15.0</string>
+		<string>Fragment Mono - 15.0</string>
 		<key>xcode.syntax.regex.charname</key>
-		<string>SauceCodeProNF - 15.0</string>
+		<string>Fragment Mono - 15.0</string>
 		<key>xcode.syntax.regex.number</key>
-		<string>SauceCodeProNF - 15.0</string>
+		<string>Fragment Mono - 15.0</string>
 		<key>xcode.syntax.regex.other</key>
-		<string>SauceCodeProNF - 15.0</string>
+		<string>Fragment Mono - 15.0</string>
 		<key>xcode.syntax.string</key>
-		<string>SauceCodeProNF - 15.0</string>
+		<string>Fragment Mono - 15.0</string>
 		<key>xcode.syntax.url</key>
-		<string>SauceCodeProNF - 15.0</string>
+		<string>Fragment Mono - 15.0</string>
 	</dict>
 </dict>
 </plist>
